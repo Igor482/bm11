@@ -93,6 +93,37 @@
         "run": true
       }
     },
+    "3721ac39c5f6cc574c8770105204160a": {
+      "user": "LOFT",
+      "pcname": "DESIGNER-2",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
     "a452261a5c97684d0ceb35243f5074a8": {
       "user": "Igor",
       "pcname": "TECH",
