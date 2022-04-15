@@ -1,0 +1,269 @@
+{
+  "licenses": {
+    "6297930ee2ff318da952328d783dc426": {
+      "user": "МК",
+      "pcname": "TECH-4",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "f75f34e1320d950f580625daa743804c": {
+      "user": "LOFT",
+      "pcname": "TECH-1",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "3894f42b9579e5a2b0afbfb83b5f929c": {
+      "user": "LOFT",
+      "pcname": "DESIGNER-1",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "b49fd534417ecad5d0a882391d3fc346": {
+      "user": "Igor",
+      "pcname": "TECH",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/14",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
+    "abc47affae910656ac2743bc2f5b0261": {
+      "user": "ГМ-i.averianov",
+      "pcname": "TECH-1",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "test-1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "cfd3f84a6f492ecb92bc2bd2a87e68d2": {
+      "user": "ГМ-user",
+      "pcname": "TECH-2 NVMe Patriot M.2 P300 SCSI Disk Device 0000_0000_0000_0001. MS-7C31 DACA4B9B-4FC8-5E1E-AD9D-2CF05D6C92B0 Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz BFEBFBFF000906EB",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "e9967107f982448d7301061b53fbdc61": {
+      "user": "МК-Денис",
+      "pcname": "WIN-QPE5KF8C58B Q2532C C7939580-CE92-81E0-22A2-386077483E2E Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz BFEBFBFF000206A7",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    }
+  }
+}
