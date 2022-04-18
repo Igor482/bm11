@@ -239,6 +239,36 @@
         "ontime": false,
         "run": true
       },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
       "test1.0": {
         "expire": "2021/10/01",
         "warning": 14,
