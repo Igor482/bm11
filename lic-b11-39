@@ -318,13 +318,128 @@
         "ontime": false,
         "run": true
       },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
       "zamenapaneleysborok1.0": {
         "expire": "2021/10/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "5b4f4830c4807795b03112ac7f9e3783": {
+      "user": "ГМ-Елена-Дом",
+      "pcname": "DESKTOP-SOVFAL7 Patriot P210 256GB 031611-213938440 To Be Filled By O.E.M. 9AC28570-A13C-0000-0000-000000000000 AMD Athlon 200GE with Radeon Vega Graphics 178BFBFF00810F10 5b4f4830c4807795b03112ac7f9e3783",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
       "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
         "expire": "2021/10/01",
         "warning": 14,
         "ontime": false,
