@@ -270,9 +270,9 @@
         "run": true
       },
       "test1.0": {
-        "expire": "2021/10/01",
+        "expire": "2022/05/01",
         "warning": 14,
-        "ontime": false,
+        "ontime": true,
         "run": true
       }
     },
