@@ -208,6 +208,12 @@
         "ontime": true,
         "run": true
       },
+      "plintus1.0": {
+        "expire": "2022/05/06",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
       "test1.0": {
         "expire": "2022/05/06",
         "warning": 14,
@@ -299,6 +305,12 @@
         "ontime": false,
         "run": true
       },
+      "plintus1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
       "test1.0": {
         "expire": "2022/05/06",
         "warning": 14,
@@ -379,6 +391,12 @@
         "run": true
       },
       "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
         "expire": "2021/10/01",
         "warning": 14,
         "ontime": false,
@@ -470,6 +488,12 @@
         "run": true
       },
       "skruglenieuglov1.0": {
+        "expire": "2023/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "plintus1.0": {
         "expire": "2023/05/01",
         "warning": 14,
         "ontime": true,
