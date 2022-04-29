@@ -326,7 +326,7 @@
     },
     "2d7102cbde61a7fbff5c71f761e4b580": {
       "user": "ГМ-sm",
-      "pcname": "TECH-1",
+      "pcname": "ASUS WDC PC SN530 SDBPNPZ-512G-1002 E823_8FA6_BF53_0001_001B_448B_4946_9F77. ASUS TUF Gaming A15 FA506II 878E352C-02CD-0642-A50C-18DD4D330E31 AMD Ryzen 5 4600H with Radeon Graphics 178BFBFF00860F01",
       "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
