@@ -239,6 +239,12 @@
         "ontime": false,
         "run": true
       },
+      "sohranitfragment1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
       "eksportizobrazhenia1.0": {
         "expire": "2021/10/01",
         "warning": 14,
