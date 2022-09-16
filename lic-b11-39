@@ -228,97 +228,97 @@
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
       "sohranit1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "sohranitkak1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "sohranitfragment1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "eksportizobrazhenia1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "redaktparkrepeza1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "redaktnaimmaterpanelej2.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "vybratponomeru1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "cutsdeg1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "zamenapaneleysborok1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "zamenanomenklaturysborok1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "opredelitobrabotki1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "rasstanovkapolok1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "redaktsmety1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "skruglenieuglov1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "plintus1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "test1.0": {
-        "expire": "2022/07/10",
+        "expire": "2022/10/10",
         "warning": 14,
         "ontime": true,
         "run": true
