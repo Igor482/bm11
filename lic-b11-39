@@ -421,6 +421,103 @@
         "run": true
       }
     },
+    "322a8433606ca14ef877bd9ee194c8aa": {
+      "user": "anna",
+      "pcname": "ANNA-PC 00426-OEM-8992662-00010 ST500LT012-1DG142 ATA Device W3PB3XAS HP ProBook 455 G2 D676D296-FDDF-11E2-B301-907292000029 AMD A8-7100 Radeon R5, 8 Compute Cores 4C+4G 178BFBFF00630F01",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitfragment1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
     "db548098b16fd8eae0fda6cbca442b47": {
       "user": "ГМ-vWin11",
       "pcname": "TECH-1",
