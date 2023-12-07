@@ -231,13 +231,13 @@
         "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
-        "run": true
+        "run": false
       },
       "sohranitkak1.0": {
         "expire": "2022/10/10",
         "warning": 14,
         "ontime": false,
-        "run": true
+        "run": false
       },
       "sohranitcnc1.0": {
         "expire": "2022/10/10",
