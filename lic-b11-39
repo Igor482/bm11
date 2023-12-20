@@ -221,110 +221,110 @@
         "run": true
       }
     },
-    "100914c895a16bb103caf085f15ab5ab": {
-      "user": "ДиВ MAKING",
-      "pcname": "MAKING",
+    "7b607b46b266e6f1946a699cc8976bb4": {
+      "user": "ДиВ TECH",
+      "pcname": "TECH 00371-868-0000007-85727 HP SSD SCSI Disk Device HASA23231105561 To Be Filled By O.E.M. 9BC28570-3D0B-0000-0000-000000000000 Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz BFEBFBFF000906EB",
       "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
       "sohranit1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
-        "ontime": false,
-        "run": false
+        "ontime": true,
+        "run": true
       },
       "sohranitkak1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
-        "run": false
+        "run": true
       },
       "sohranitcnc1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "sohranitfragment1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "eksportizobrazhenia1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "redaktparkrepeza1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "redaktnaimmaterpanelej2.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "vybratponomeru1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "cutsdeg1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "zamenapaneleysborok1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "zamenanomenklaturysborok1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "opredelitobrabotki1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "rasstanovkapolok1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "redaktsmety1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "skruglenieuglov1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "plintus1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": false,
         "run": true
       },
       "test1.0": {
-        "expire": "2022/10/10",
+        "expire": "2024/01/01",
         "warning": 14,
         "ontime": true,
         "run": true
