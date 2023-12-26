@@ -328,6 +328,12 @@
         "warning": 14,
         "ontime": true,
         "run": true
+      },
+      "selecthorizholes1.0": {
+        "expire": "2024/01/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
       }
     },
     "2d7102cbde61a7fbff5c71f761e4b580": {
