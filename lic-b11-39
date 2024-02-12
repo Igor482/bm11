@@ -834,6 +834,97 @@
         "run": true
       }
     },
+    "109cac3819b0b62ab41b5b655da8d85b": {
+      "user": "ГМ-Елена-Дом2",
+      "pcname": "DESKTOP-1LP2A8V 00342-21911-77715-AAOEM SAMSUNG MZALQ512HBLU-00BL2 0025_38D4_1111_230E. 82K2 F9416D90-0ED1-11EC-810C-7C8AE19CE100 AMD Ryzen 5 5600H with Radeon Graphics 178BFBFF00A50F00",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2024/05/01",
+        "warning": 14,
+        "ontime": true,
+        "run": true
+      }
+    },
     "e9967107f982448d7301061b53fbdc61": {
       "user": "МК-Денис",
       "pcname": "WIN-QPE5KF8C58B Q2532C C7939580-CE92-81E0-22A2-386077483E2E Intel(R) Core(TM) i5-2540M CPU @ 2.60GHz BFEBFBFF000206A7",
