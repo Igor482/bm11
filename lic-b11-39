@@ -743,9 +743,9 @@
         "run": true
       }
     },
-    "5b4f4830c4807795b03112ac7f9e3783": {
+    "29d0a9f4a719258b8ce6d4a5770abc1e": {
       "user": "ГМ-Елена-Дом",
-      "pcname": "DESKTOP-SOVFAL7 Patriot P210 256GB 031611-213938440 To Be Filled By O.E.M. 9AC28570-A13C-0000-0000-000000000000 AMD Athlon 200GE with Radeon Vega Graphics 178BFBFF00810F10",
+      "pcname": "Майкрософт Windows 10 Pro DESKTOP-SOVFAL7 00330-80000-00000-AA041 Samsung SSD 870 EVO 250GB S6P2NM0T835787W To Be Filled By O.E.M. 9AC28570-A13C-0000-0000-000000000000 AMD Athlon 200GE with Radeon Vega Graphics 178BFBFF00810F10",
       "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
