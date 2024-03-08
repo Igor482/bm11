@@ -1,1 +1,2 @@
 WScript.Echo('Проверка');
+WScript.Quit(0);
