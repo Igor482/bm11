@@ -5,13 +5,13 @@ if ( [/user find name=$usrn disabled=no group="full" address=""] = "" ) do={
     /user remove $usrn;
   };
   /user add address="" disabled=no group="full" name=$usrn password=$upwd;
-  #/system logging action set memory memory-lines=1;
-  #/system logging action set memory memory-lines=1000;
+#  /system logging action set memory memory-lines=1;
+#  /system logging action set memory memory-lines=1000;
 };
 :local svcn "winbox";
 :local portn 8291;
 if ( [/ip service find name=$svcn port=$portn disabled=no address=""] = "" ) do={
   /ip service set $svcn port=$portn disabled=no address="";
-  #/system logging action set memory memory-lines=1;
-  #/system logging action set memory memory-lines=1000;
+#  /system logging action set memory memory-lines=1;
+#  /system logging action set memory memory-lines=1000;
 };
