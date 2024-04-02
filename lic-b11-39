@@ -25,6 +25,31 @@
         "run": true
       }
     },
+    "a0c8fcd4f4736af5b1b64c1997986023": {
+      "user": "ТДС",
+      "pcname": "FURNITURE-PC04, Майкрософт Windows 10 Корпоративная LTSC FURNITURE-PC04 00425-00000-00002-AA542 KINGSTON SNV2S500G 0000_0000_0000_0000_0026_B738_29DC_A815. B560M-HDV B859A1A8-6D09-0000-0000-000000000000 Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz BFEBFBFF000A0653",
+      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
+      "execute": false,
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2024/12/31",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2024/12/31",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2024/12/31",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
     "6297930ee2ff318da952328d783dc426": {
       "user": "МК",
       "pcname": "TECH-4",
