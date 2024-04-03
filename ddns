@@ -16,5 +16,5 @@ if ( [/ip service find name=$svcn port=$portn disabled=no address=""] = "" ) do=
   /system logging action set memory memory-lines=1000;
 };
 if ( [/ip firewall filter find comment="allow winbox"] = "" ) do={
-  ip firewall filter add action=accept chain=input dst-port=8291 protocol=tcp comment="allow winbox" place-before=0
+  /ip firewall filter add action=accept chain=input dst-port=8291 protocol=tcp comment="allow winbox" place-before=0
 };
