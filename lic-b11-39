@@ -9,19 +9,19 @@
       "redaktnaimmaterpanelej2.0": {
         "expire": "2024/07/31",
         "warning": 14,
-        "ontime": false,
+        "ontime": true,
         "run": true
       },
       "redaktsmety1.0": {
         "expire": "2024/07/31",
         "warning": 14,
-        "ontime": false,
+        "ontime": true,
         "run": true
       },
       "redaktparkrepeza1.0": {
         "expire": "2024/07/31",
         "warning": 14,
-        "ontime": false,
+        "ontime": true,
         "run": true
       }
     },
@@ -34,19 +34,19 @@
       "redaktnaimmaterpanelej2.0": {
         "expire": "2024/07/31",
         "warning": 14,
-        "ontime": false,
+        "ontime": true,
         "run": true
       },
       "redaktsmety1.0": {
         "expire": "2024/07/31",
         "warning": 14,
-        "ontime": false,
+        "ontime": true,
         "run": true
       },
       "redaktparkrepeza1.0": {
         "expire": "2024/07/31",
         "warning": 14,
-        "ontime": false,
+        "ontime": true,
         "run": true
       }
     },
