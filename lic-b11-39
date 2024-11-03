@@ -181,7 +181,7 @@
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
       "sohranit1.0": {
-        "expire": "2022/05/06",
+        "expire": "2025/05/06",
         "warning": 14,
         "ontime": true,
         "run": true
