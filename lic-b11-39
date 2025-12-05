@@ -386,9 +386,9 @@
         "run": true
       }
     },
-"b42c608bd636a64617fe0dd21cea47da": {
+"2d9d51083812c1fdcf7c406daee9638a": {
       "user": "ДиВ TECH",
-      "pcname": "Майкрософт Windows 11 Pro TECH 00330-80000-00000-AA377 To Be Filled By O.E.M. 9BC28570-3D0B-0000-0000-000000000000 Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz BFEBFBFF000906EB",
+      "pcname": "Майкрософт Windows 11 Pro TECH 00330-80000-00000-AA377 Apacer AS350 256GB AFMG0425608924 To Be Filled By O.E.M. 9BC28570-3D0B-0000-0000-000000000000 Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz BFEBFBFF000906EB",
       "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
       "code": "WScript.Echo(\"Привет! Я весёлый скрипт, ля-ля-ля! =)\")",
       "execute": false,
