@@ -3,7 +3,104 @@
     "322a8433606ca14ef877bd9ee194c8aa": {
       "user": "anna",
       "pcname": "ANNA-PC 00426-OEM-8992662-00010 ST500LT012-1DG142 ATA Device W3PB3XAS HP ProBook 455 G2 D676D296-FDDF-11E2-B301-907292000029 AMD A8-7100 Radeon R5, 8 Compute Cores 4C+4G 178BFBFF00630F01",
-      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (telegram: @meel_482)",
+      "message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. тел.: +7 (921) 107-05-17, Игорь",
+      "code": "",
+      "execute": false,
+      "sohranit1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitkak1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "sohranitfragment1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "eksportizobrazhenia1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktparkrepeza1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktnaimmaterpanelej2.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "vybratponomeru1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "cutsdeg1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenapaneleysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "zamenanomenklaturysborok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "opredelitobrabotki1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "rasstanovkapolok1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "redaktsmety1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "skruglenieuglov1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      },
+      "plintus1.0": {
+        "expire": "2021/10/01",
+        "warning": 14,
+        "ontime": false,
+        "run": true
+      }
+    },
+    "f2072e2b2f0cbaf5669f932682d75493": {
+      "user": "Igor",
+      "pcname": "Майкрософт Windows 11 Pro TECH 00330-80000-00000-AA414 SPCC M.2 PCIe SSD 2C3E_BF30_3032_3033_0000_0000_0000_0000. System Product Name 03000200-0400-0500-0006-000700080009 Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz BFEBFBFF000306A9",
+      "message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. тел.: +7 (921) 107-05-17, Игорь",
       "code": "",
       "execute": false,
       "sohranit1.0": {
@@ -100,7 +197,7 @@
     "29d0a9f4a719258b8ce6d4a5770abc1e": {
       "user": "ГМ-Елена-Дом",
       "pcname": "Майкрософт Windows 10 Pro DESKTOP-SOVFAL7 00330-80000-00000-AA041 Samsung SSD 870 EVO 250GB S6P2NM0T835787W To Be Filled By O.E.M. 9AC28570-A13C-0000-0000-000000000000 AMD Athlon 200GE with Radeon Vega Graphics 178BFBFF00810F10",
-      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. тел.: +7 (921) 107-05-17, Игорь",
       "code": "",
       "execute": false,
       "sohranit1.0": {
@@ -191,7 +288,7 @@
     "109cac3819b0b62ab41b5b655da8d85b": {
       "user": "ГМ-Елена-Дом2",
       "pcname": "DESKTOP-1LP2A8V 00342-21911-77715-AAOEM SAMSUNG MZALQ512HBLU-00BL2 0025_38D4_1111_230E. 82K2 F9416D90-0ED1-11EC-810C-7C8AE19CE100 AMD Ryzen 5 5600H with Radeon Graphics 178BFBFF00A50F00",
-      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. тел.: +7 (921) 107-05-17, Игорь",
       "code": "",
       "execute": false,
       "sohranit1.0": {
@@ -282,7 +379,7 @@
     "c98cf1d6c8495ec86ab28b4c357d06af": {
       "user": "ГМ-Елена-Дом3",
       "pcname": "Майкрософт Windows 11 Домашняя WIN-MRJKQ8FUNSF 00342-22167-74709-AAOEM GeIL P3L 1TB 0000_0000_0000_0000_00E0_4C70_0A23_C423. HP Laptop 17-cp3xxx 0F3F4DBC-5984-C146-92DB-FF817CF33908 AMD Ryzen 7 7730U with Radeon Graphics 178BFBFF00A50F00",
-      "message": "Использование данной программы на этом ПК невозможно, для получения права её использования Вы можете обратиться к разработчику. (icq: @Igor_482)",
+      "message": "Использование данного скрипта на этом ПК невозможно, для получения права его использования Вы можете обратиться к разработчику. тел.: +7 (921) 107-05-17, Игорь",
       "code": "",
       "execute": false,
       "sohranit1.0": {
