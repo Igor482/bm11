@@ -121,13 +121,11 @@
 0.0.0.0	4n1hqmcoms.rest
 0.0.0.0	4pseo.ru
 0.0.0.0	4smi.ru
-0.0.0.0	5.101.115.170
 0.0.0.0	55421d35f3a0719b4269b3f474dbf9fa.ru
 0.0.0.0	5cacard.ru
 0.0.0.0	5moxhf6z8c.ru
 0.0.0.0	5visions.com
 0.0.0.0	5xanz2dxcn.ru
-0.0.0.0	62.109.18.206
 0.0.0.0	6598kn9gpf.ru
 0.0.0.0	6c5xnntfvi.com
 0.0.0.0	6jfvnf69jx.ru
@@ -153,8 +151,6 @@
 0.0.0.0	8nr2bisa.ru
 0.0.0.0	8pulse.com
 0.0.0.0	8q2g560ynxlkz9rm.in.net
-0.0.0.0	95.213.229.88
-0.0.0.0	95.213.231.34
 0.0.0.0	9lt1f7.ru
 0.0.0.0	9solo.biz
 0.0.0.0	9vds.ru
